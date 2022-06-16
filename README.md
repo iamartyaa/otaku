@@ -1,16 +1,20 @@
-# otaku
+# Otaku
 
-A new Flutter project.
+A simple Anime explorer app built with a goal of implementing API knowledge with a cleaner UI.
 
-## Getting Started
+## Key Points
 
-This project is a starting point for a Flutter application.
+- Built with **Flutter & Dart** on the frontend using **Material UI**
+- **Jikan-API** for getching the details about Anime like TopAnime, TopManga, Top Characters, etc
+- Made with an aim to incoperate various **Flutter Widgets** & display proficiency in Flutter & Dart internals
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="Screenshot_1655373327.png" height="300em" /> | <img src="Screenshot_1655373340.png" height="300em" /> | 
+<img src="Screenshot_1655373361.png" height="300em" /> | <img src="Screenshot_1655373363.png" height="300em" /> | 
+<img src="Screenshot_1655373375.png" height="300em" />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Created & Maintained by
+
+### **Amartya Yadav**
+---
